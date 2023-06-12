@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @oussama-frih
+- 👀 I’m interested in bug bounty
+- 🌱 I’m currently learning bug bounty
